@@ -1,0 +1,9 @@
+{
+    "title": "Ionicons",
+    "groups": ["Outline", "Filled", "Sharp", "Logo"],
+    "meta": {
+        "version": "5.0.0",
+        "license": "MIT",
+        "url": "https://ionicons.com/"
+    }
+}

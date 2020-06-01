@@ -1,0 +1,9 @@
+{
+    "title": "Font Awesome",
+    "groups": ["Regular", "Solid", "Brands"],
+    "meta": {
+        "version": "5.13.0",
+        "license": "GPL friendly",
+        "url": "https://fontawesome.com/"
+    }
+}
