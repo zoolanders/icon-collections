@@ -1,6 +1,6 @@
 {
     "title": "Font Awesome",
-    "groups": ["Regular", "Solid", "Brands"],
+    "groups": ["regular", "solid", "brands"],
     "meta": {
         "version": "5.13.0",
         "license": "GPL friendly",

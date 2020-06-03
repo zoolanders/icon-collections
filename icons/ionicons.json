@@ -1,6 +1,6 @@
 {
     "title": "Ionicons",
-    "groups": ["Outline", "Filled", "Sharp", "Logo"],
+    "groups": ["outline", "filled", "sharp", "logo"],
     "meta": {
         "version": "5.0.0",
         "license": "MIT",
