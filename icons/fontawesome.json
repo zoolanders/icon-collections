@@ -1,9 +1,10 @@
 {
     "title": "Font Awesome",
     "groups": ["regular", "solid", "brands"],
+    "description": "Icons and social logos by Font Awesome, the web's most popular icon set.",
     "meta": {
         "version": "5.13.0",
-        "license": "GPL friendly",
-        "url": "https://fontawesome.com/"
+        "license": "GPL",
+        "url": "https://fontawesome.com"
     }
 }

@@ -1,9 +1,10 @@
 {
     "title": "Ionicons",
     "groups": ["outline", "filled", "sharp", "logo"],
+    "description": "Beautifully crafted open source icons built by the Ionic Framework team.",
     "meta": {
         "version": "5.0.0",
         "license": "MIT",
-        "url": "https://ionicons.com/"
+        "url": "https://ionicons.com"
     }
 }
