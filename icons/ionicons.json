@@ -3,7 +3,7 @@
     "groups": ["outline", "filled", "sharp", "logo"],
     "description": "Beautifully crafted open source icons built by the Ionic Framework team.",
     "meta": {
-        "version": "5.0.0",
+        "version": "5.1.2",
         "license": "MIT",
         "url": "https://ionicons.com"
     }

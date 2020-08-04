@@ -3,7 +3,7 @@
     "groups": ["regular", "solid", "brands"],
     "description": "Icons and social logos by Font Awesome, the web's most popular icon set.",
     "meta": {
-        "version": "5.13.0",
+        "version": "5.14.0",
         "license": "GPL",
         "url": "https://fontawesome.com"
     }
