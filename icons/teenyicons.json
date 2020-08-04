@@ -1,0 +1,10 @@
+{
+    "title": "Teenyicons",
+    "groups": ["outline", "solid"],
+    "description": "Designed on a 15x15 grid, Teenyicons easily fit in very small spaces and maintain a crisp look.",
+    "meta": {
+        "version": "0.3.0",
+        "license": "Creative Commons",
+        "url": "https://www.teenyicons.com"
+    }
+}
