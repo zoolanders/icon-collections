@@ -8,7 +8,7 @@ const SVGO = require('svgo');
 
 (async () => {
 
-    const icons = await globby('icons/**/*.svg');
+    const collections = await globby('collections/**/*.svg');
 
     const svgo = new SVGO({
         plugins: [
@@ -22,7 +22,7 @@ const SVGO = require('svgo');
         ]
     });
 
-    for (const path of icons) {
+    for (const path of collections) {
 
         const data = fs.readFileSync(path, 'utf8');
         const result = await svgo.optimize(data, {path});
