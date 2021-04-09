@@ -2,6 +2,8 @@
     "title": "Zondicons",
     "description": "A set of icons with charming yet sophisticated personality designed by Steve Schoger.",
     "meta": {
+        "version": "1.0.0",
+        "release": "July 12, 2017",
         "license": "Creative Commons",
         "url": "https://www.zondicons.com"
     }
