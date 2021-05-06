@@ -1,4 +1,5 @@
 {
+    "name": "fontawesome",
     "title": "Font Awesome",
     "groups": ["regular", "solid", "brands"],
     "description": "Icons and social logos by Font Awesome, the web's most popular icon set.",

@@ -1,4 +1,5 @@
 {
+    "name": "ionicons",
     "title": "Ionicons",
     "groups": ["outline", "filled", "sharp", "logo"],
     "description": "Beautifully crafted open source icons built by the Ionic Framework team.",
