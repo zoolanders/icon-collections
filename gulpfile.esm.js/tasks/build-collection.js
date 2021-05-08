@@ -15,8 +15,9 @@ export default collection => {
             `${collection}/**/*`,
             `${collection}.json`,
         ])
+            // wrap icons in folder
             .pipe(rename(path => {
-                if (path.basename !== name) {
+                if (path.extname === '' || path.extname === '.svg') {
                     path.dirname = `${name}/${path.dirname}`;
                 }
             }))

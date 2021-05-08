@@ -1,0 +1,12 @@
+{
+    "name": "bootstrap",
+    "title": "Bootstrap",
+    "description": "Official Bootstrap SVG icon library with over 1.300 icons.",
+    "groups": ["filled"],
+    "meta": {
+        "version": "1.4.1",
+        "release": "March 30, 2021",
+        "license": "MIT",
+        "url": "https://icons.getbootstrap.com"
+    }
+}

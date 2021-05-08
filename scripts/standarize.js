@@ -15,6 +15,11 @@ const SVGO = require('svgo');
             {removeDimensions: true},
             {convertStyleToAttrs: true},
             {
+                removeAttrs: {
+                    attrs: 'class'
+                }
+            },
+            {
                 addAttributesToSVGElement: {
                     attribute: {'width': 20, 'height': 20}
                 }

@@ -1,0 +1,11 @@
+{
+    "name": "tablericons",
+    "title": "Tabler Icons",
+    "description": "A set of over 1250 high-quality SVG icons designed on a 24x24 grid and a 2px stroke.",
+    "meta": {
+        "version": "1.41.1",
+        "release": "April 27, 2021",
+        "license": "MIT",
+        "url": "https://tabler-icons.io"
+    }
+}
