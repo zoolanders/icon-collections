@@ -2,11 +2,15 @@
     "name": "antdesign",
     "title": "Ant Design",
     "description": "The abstract trees of the Ant Design SVG icons.",
-    "groups": ["filled", "outlined"],
+    "groups": [
+        "filled",
+        "outlined"
+    ],
     "meta": {
         "version": "4.0.0",
         "release": "February 28, 2020",
         "license": "MIT",
         "url": "https://github.com/ant-design/ant-design-icons"
-    }
+    },
+    "total": 638
 }

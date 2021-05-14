@@ -2,11 +2,14 @@
     "name": "octicons",
     "title": "Octicons",
     "description": "Set of SVG icons built by GitHub for GitHub.",
-    "groups": ["large"],
+    "groups": [
+        "large"
+    ],
     "meta": {
         "version": "13.0.0",
         "release": "April 7, 2021",
         "license": "MIT",
         "url": "https://github.com/primer/octicons"
-    }
+    },
+    "total": 433
 }

@@ -2,11 +2,15 @@
     "name": "heroicons",
     "title": "Heroicons",
     "description": "Beautiful hand-crafted icons, by the makers of Tailwind CSS.",
-    "groups": ["outline", "solid"],
+    "groups": [
+        "outline",
+        "solid"
+    ],
     "meta": {
         "version": "1.0.0",
         "release": "March 30, 2021",
         "license": "MIT",
         "url": "https://heroicons.com"
-    }
+    },
+    "total": 452
 }

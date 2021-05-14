@@ -5,6 +5,7 @@
   "description": "Icons Providers Archive",
   "scripts": {
     "standarize": "node scripts/standarize.js",
+    "count": "node scripts/count.js",
     "build": "gulp build"
   },
   "devDependencies": {
