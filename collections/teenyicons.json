@@ -6,11 +6,9 @@
         "outline",
         "solid"
     ],
-    "meta": {
-        "version": "0.4.1",
-        "release": "February 4, 2021",
-        "license": "CC",
-        "url": "https://teenyicons.com"
-    },
-    "total": 1200
+    "version": "0.4.1",
+    "release": "February 4, 2021",
+    "license": "CC",
+    "url": "https://teenyicons.com",
+    "icons": 1200
 }

@@ -7,11 +7,9 @@
         "solid",
         "logos"
     ],
-    "meta": {
-        "version": "2.0.7",
-        "release": "October 23, 2020",
-        "license": "MIT",
-        "url": "https://boxicons.com"
-    },
-    "total": 1500
+    "version": "2.0.7",
+    "release": "October 23, 2020",
+    "license": "MIT",
+    "url": "https://boxicons.com",
+    "icons": 1500
 }

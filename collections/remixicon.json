@@ -21,11 +21,9 @@
         "weather",
         "others"
     ],
-    "meta": {
-        "version": "2.5.0",
-        "release": "May 23, 2020",
-        "license": "Apache",
-        "url": "https://remixicon.com"
-    },
-    "total": 2271
+    "version": "2.5.0",
+    "release": "May 23, 2020",
+    "license": "Apache",
+    "url": "https://remixicon.com",
+    "icons": 2271
 }

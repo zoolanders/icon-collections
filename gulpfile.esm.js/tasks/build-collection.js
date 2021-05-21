@@ -21,7 +21,7 @@ export default collection => {
                     path.dirname = `${name}/${path.dirname}`;
                 }
             }))
-            .pipe(zip(`${name}_${manifest.meta.version}.zip`))
+            .pipe(zip(`${name}_${manifest.version}.zip`))
             .pipe(dest(config.dest));
     }
 

@@ -5,11 +5,9 @@
     "groups": [
         "filled"
     ],
-    "meta": {
-        "version": "1.4.1",
-        "release": "March 30, 2021",
-        "license": "MIT",
-        "url": "https://icons.getbootstrap.com"
-    },
-    "total": 1370
+    "version": "1.4.1",
+    "release": "March 30, 2021",
+    "license": "MIT",
+    "url": "https://icons.getbootstrap.com",
+    "icons": 1370
 }

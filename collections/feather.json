@@ -2,11 +2,9 @@
     "name": "feather",
     "title": "Feather",
     "description": "Simply beautiful open source icons.",
-    "meta": {
-        "version": "4.28.0",
-        "release": "April 5, 2020",
-        "license": "MIT",
-        "url": "https://feathericons.com"
-    },
-    "total": 286
+    "version": "4.28.0",
+    "release": "April 5, 2020",
+    "license": "MIT",
+    "url": "https://feathericons.com",
+    "icons": 286
 }

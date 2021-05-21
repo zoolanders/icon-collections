@@ -7,11 +7,9 @@
         "solid",
         "brands"
     ],
-    "meta": {
-        "version": "5.15.3",
-        "release": "March 16, 2021",
-        "license": "GPL",
-        "url": "https://fontawesome.com"
-    },
-    "total": 1612
+    "version": "5.15.3",
+    "release": "March 16, 2021",
+    "license": "GPL",
+    "url": "https://fontawesome.com",
+    "icons": 1612
 }

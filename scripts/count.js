@@ -15,7 +15,7 @@ const globby = require('globby');
         const manifest = require(resolve(process.cwd(), collection));
         const icons = globby.sync(`collections/${manifest.name}/**/*.svg`);
 
-        manifest.total = icons.length;
+        manifest.icons = icons.length;
 
         fs.writeFileSync(collection, JSON.stringify(manifest, null, 4));
     }
