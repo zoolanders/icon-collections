@@ -1,0 +1,14 @@
+{
+    "name": "coreui",
+    "title": "CoreUI",
+    "description": "Simply beautiful open source icons.",
+    "groups": [
+        "brand",
+        "flags"
+    ],
+    "version": "2.0.1",
+    "release": "March 31, 2021",
+    "license": "MIT",
+    "url": "https://icons.coreui.io",
+    "icons": 1583
+}

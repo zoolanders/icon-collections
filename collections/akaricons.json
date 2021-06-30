@@ -1,0 +1,13 @@
+{
+    "name": "akaricons",
+    "title": "Akar Icons",
+    "description": "A perfectly rounded icon library made for everyone.",
+    "groups": [
+        "filled"
+    ],
+    "version": "1.5.3",
+    "release": "June 23, 2021",
+    "license": "MIT",
+    "url": "https://akaricons.com",
+    "icons": 289
+}
