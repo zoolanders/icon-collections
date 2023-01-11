@@ -1,10 +1,10 @@
 {
     "name": "pixelarticons",
     "title": "Pixelarticons",
-    "description": "Pixel-art style icons, in one color and made with an 24x24px grid.",
-    "version": "1.4.0",
-    "release": "March 14, 2021",
+    "description": "Pixel-art style icons.",
+    "version": "1.7.0",
+    "release": "August, 2022",
     "license": "MIT",
     "url": "https://pixelarticons.com",
-    "icons": 460
+    "icons": 480
 }
