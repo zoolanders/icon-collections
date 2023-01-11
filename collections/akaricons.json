@@ -3,11 +3,12 @@
     "title": "Akar Icons",
     "description": "A perfectly rounded icon library made for everyone.",
     "groups": [
-        "filled"
+        "filled",
+        "regular"
     ],
-    "version": "1.5.3",
-    "release": "June 23, 2021",
+    "version": "2.1.7",
+    "release": "November, 2022",
     "license": "MIT",
     "url": "https://akaricons.com",
-    "icons": 289
+    "icons": 415
 }
