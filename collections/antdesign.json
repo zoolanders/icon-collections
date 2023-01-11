@@ -6,9 +6,9 @@
         "filled",
         "outlined"
     ],
-    "version": "4.0.0",
-    "release": "February 28, 2020",
+    "version": "4.2.1",
+    "release": "September, 2021",
     "license": "MIT",
     "url": "https://github.com/ant-design/ant-design-icons",
-    "icons": 638
+    "icons": 639
 }
