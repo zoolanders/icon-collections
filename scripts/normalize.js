@@ -3,7 +3,7 @@ const globby = require('globby');
 const SVGO = require('svgo');
 
 /**
- * Standarize icons for UIkit Icons compatibility
+ * Normalize icons for UIkit Icons compatibility
  **/
 
 (async () => {

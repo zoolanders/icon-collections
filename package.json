@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Icons Providers Archive",
   "scripts": {
-    "standarize": "node scripts/standarize.js",
+    "normalize": "node scripts/normalize.js",
     "count": "node scripts/count.js",
     "build": "gulp build"
   },
