@@ -2,9 +2,9 @@
     "name": "octicons",
     "title": "Octicons",
     "description": "Set of SVG icons built by GitHub for GitHub.",
-    "version": "17.10.1",
-    "release": "January, 2022",
+    "version": "19.5.0",
+    "release": "July, 2023",
     "license": "MIT",
     "url": "https://github.com/primer/octicons",
-    "icons": 259
+    "icons": 274
 }

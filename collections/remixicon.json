@@ -16,14 +16,14 @@
         "logos",
         "map",
         "media",
+        "others",
         "system",
         "user",
-        "weather",
-        "others"
+        "weather"
     ],
-    "version": "2.5.0",
-    "release": "May 23, 2020",
+    "version": "3.5.0",
+    "release": "May 23, 2023",
     "license": "Apache",
     "url": "https://remixicon.com",
-    "icons": 2271
+    "icons": 2537
 }
