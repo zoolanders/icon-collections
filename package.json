@@ -1,16 +1,16 @@
 {
   "private": true,
+  "type": "module",
   "name": "@yoolanders/icons-archive",
   "version": "1.0.0",
   "description": "Icons Providers Archive",
   "scripts": {
     "normalize": "node scripts/normalize.js",
     "count": "node scripts/count.js",
-    "build": "gulp build"
+    "build": "gulp --gulpfile build/index.js --cwd ."
   },
   "devDependencies": {
     "del": "^6.0.0",
-    "esm": "^3.2.25",
     "globby": "^11.0.1",
     "gulp": "^4.0.2",
     "gulp-rename": "^2.0.0",

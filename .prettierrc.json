@@ -1,0 +1,13 @@
+{
+    "tabWidth": 4,
+    "printWidth": 100,
+    "singleQuote": true,
+    "overrides": [
+        {
+            "files": ["**/*.md", "**/*.yml"],
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}
