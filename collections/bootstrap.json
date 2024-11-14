@@ -1,13 +1,13 @@
 {
     "name": "bootstrap",
     "title": "Bootstrap",
-    "description": "Official Bootstrap SVG icon library with over 1.300 icons.",
+    "description": "Official Bootstrap SVG icon library with over 2.000 icons.",
     "groups": [
         "filled"
     ],
-    "version": "1.10.5",
-    "release": "April, 2023",
+    "version": "1.11.3",
+    "release": "January, 2024",
     "license": "MIT",
     "url": "https://icons.getbootstrap.com",
-    "icons": 1953
+    "icons": 2051
 }

@@ -2,9 +2,12 @@
     "name": "iconoir",
     "title": "Iconoir",
     "description": "The Definitive Open Source Icons Library.",
-    "version": "6.0.0",
-    "release": "January, 2023",
+    "groups": [
+        "solid"
+    ],
+    "version": "7.10.0",
+    "release": "November, 2024",
     "license": "MIT",
     "url": "https://iconoir.com",
-    "icons": 1235
+    "icons": 1628
 }

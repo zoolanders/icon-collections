@@ -3,12 +3,11 @@
     "title": "CoreUI",
     "description": "Simply beautiful open source icons.",
     "groups": [
-        "brand",
-        "flags"
+        "brand"
     ],
-    "version": "2.0.1",
-    "release": "March 31, 2021",
+    "version": "3.0.1",
+    "release": "March, 2023",
     "license": "MIT",
     "url": "https://icons.coreui.io",
-    "icons": 1384
+    "icons": 1386
 }

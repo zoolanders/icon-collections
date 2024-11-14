@@ -2,9 +2,13 @@
     "name": "tablericons",
     "title": "Tabler Icons",
     "description": "A set of over 1250 high-quality SVG icons designed on a 24x24 grid and a 2px stroke.",
-    "version": "2.30.0",
-    "release": "July, 2023",
+    "groups": [
+        "filled",
+        "outline"
+    ],
+    "version": "3.22.0",
+    "release": "November, 2024",
     "license": "MIT",
     "url": "https://tabler-icons.io",
-    "icons": 4601
+    "icons": 5718
 }
