@@ -1,0 +1,17 @@
+{
+    "name": "phospor",
+    "title": "Phosphor",
+    "description": "A flexible icon family for interfaces, diagrams, presentations...",
+    "groups": [
+        "bold",
+        "fill",
+        "light",
+        "regular",
+        "thin"
+    ],
+    "version": "2.1.0",
+    "release": "March, 2024",
+    "license": "MIT",
+    "url": "https://phosphoricons.com",
+    "icons": 5235
+}
