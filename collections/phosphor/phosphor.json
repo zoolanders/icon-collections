@@ -4,6 +4,7 @@
     "description": "A flexible icon family for interfaces, diagrams, presentations...",
     "groups": [
         "bold",
+        "duotone",
         "fill",
         "light",
         "regular",
