@@ -7,7 +7,7 @@ import globby from 'globby';
  **/
 
 (async () => {
-    const collections = await globby('collections/*.json');
+    const collections = await globby('collections/*/*.json');
 
     for (const collection of collections) {
         const manifest = JSON.parse(fs.readFileSync(resolve(process.cwd(), collection), 'utf8'));
